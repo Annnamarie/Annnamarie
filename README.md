@@ -1,6 +1,6 @@
 💫 About Me: <br>
 👋 Hi, I’m @Annnamarie <br>
-🚑 Currently, I'm working on a website to make medical transportation more accessible for patients. 🌐 <br>
+🚑 Currently, I am learning about Web3 security and APIs. Also explorign React Native and many more. 🌐 <br>
 👀 I’m interested in Mobile and Web Development <br>
 🌱 I’m currently learning new programming languages like Kotlin, CSS, HTML, and JavaScript to expand my skill set. 💻 <br>
 💡 Fun fact: I can speak three languages! <br>
