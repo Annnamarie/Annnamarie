@@ -3,7 +3,7 @@
 🚑 Currently, I am learning about React Native and APIs. Also exploring how to use and create prototypes on Figma. 🌐 <br>
 👀 I’m interested in Mobile and Web Development <br>
 🌱 I’m currently learning new programming languages like Kotlin, CSS, HTML, and JavaScript to expand my skill set. 💻 <br>
-💡 Fun fact: I can speak three languages! <br>
+💡 Fun fact: I can speak three languages - English, Tagalog and Bisaya! <br>
 😄 Pronouns: She/Her
 
 
