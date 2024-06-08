@@ -1,6 +1,6 @@
 💫 About Me: <br>
 👋 Hi, I’m @Annnamarie <br>
-🚑 Currently, I am learning about Web3 security and APIs. Also exploring React Native and learning how to use and create prototypes on Figma. 🌐 <br>
+🚑 Currently, I am learning about React Native and APIs. Also exploring how to use and create prototypes on Figma. 🌐 <br>
 👀 I’m interested in Mobile and Web Development <br>
 🌱 I’m currently learning new programming languages like Kotlin, CSS, HTML, and JavaScript to expand my skill set. 💻 <br>
 💡 Fun fact: I can speak three languages! <br>
